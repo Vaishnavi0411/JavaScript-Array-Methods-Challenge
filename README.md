@@ -98,20 +98,5 @@ Just for reference, the sample expected output when executed in JavaScript Debug
 ![](./veggie-pizza-output-1.png)
 ![](./veggie-pizza-output-2.png)​
 
-
-**NOTE: The solution for this exercise should be provided in `veggie-pizza-solution.js` file.**
-​
-#### Submission Instructions
-
-1. This is a test enabled practice, hence, the solution will have to ungdergo automated evaluation process.
-    - For automated evaluation, the solution should be first tested locally and then on hobbes.
-2. Steps to test the code locally:
-    1. Ensure the solution code is provided in the specified files only.
-    2. From the command line terminal, set the path to the folder containing cloned boilerplate code.
-    3. Run the command `npm install` to install the dependencies.
-    4. Run the command `npm run test` to test the solution locally.
-    5. Ensure all the test cases are passing locally and then push the solution to git for automated testing on `hobbes`.
-3. Steps to test the code on hobbes:
-    1. Open the submission page at `https://codereview.stackroute.niit.com/#/submission`.
-    2. Submit the solution.
-    3. For the failed test cases, refactor the code locally and submit it for re-evaluation.
+   Run the command `npm install` to install the dependencies.
+   Run the command `npm run test` to test the solution locally.
